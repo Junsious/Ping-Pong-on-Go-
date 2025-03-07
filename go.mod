@@ -1,4 +1,4 @@
-module github.com/avukadin/go_pong
+module github.com/Junsious/ping_pong_on_go
 
 go 1.23.5
 
