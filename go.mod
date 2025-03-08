@@ -1,4 +1,4 @@
-module github.com/Junsious/ping_pong_on_go
+module github.com/Junsious/PonGO
 
 go 1.23.5
 
