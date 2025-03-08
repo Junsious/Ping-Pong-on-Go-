@@ -44,7 +44,7 @@ type Game struct {
 }
 
 func main() {
-	ebiten.SetWindowTitle("Pong in Ebitengine")
+	ebiten.SetWindowTitle("PonGo")
 	ebiten.SetWindowSize(screenWidth, screenHeight)
 	paddle := Paddle{
 		Object: Object{
