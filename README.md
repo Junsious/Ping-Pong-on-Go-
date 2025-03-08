@@ -5,5 +5,10 @@ A simple console ping-pong game written in Go, created as a pet project. The gam
 
  ```bash
    git clone https://github.com/Junsious/PonGO.git
+```
+```
    cd PonGO
+```
+```
+ go run main.go
 ```
